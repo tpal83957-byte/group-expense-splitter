@@ -1,7 +1,7 @@
 {
-  "name": "splitapp",
+  "name": "splitsmart",
   "version": "1.0.0",
-  "description": "This is a group money spliting app made with MERN stack ",
+  "description": "Group expense management application ",
   "main": "app.js",
   "scripts": {
     "test": "npx nodemon app.js",
